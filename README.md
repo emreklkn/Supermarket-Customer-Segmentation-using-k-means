@@ -77,11 +77,7 @@ The notebook contains visualizations such as:
 
 ---
 
-## 📃 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## ✨ Contributions Welcome
 
